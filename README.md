@@ -1,2 +1,2 @@
 # protonoptics-downloads
-LensPrint &amp; OptiBarrel installers
+LensPrint installers
