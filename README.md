@@ -2,7 +2,7 @@
 
 | Software | macOS | Windows |
 |---|---|---|
-| **LensPrint 1.0** — Optical Lens Drawings Designer | `LensPrint_macOS.zip` | `LensPrint_Windows.zip` |
+| **LensPrint 1.0** — Optical Lens Drawings Designer | [LensPrint_macOS.zip](https://github.com/ProtonOptics/lensprint-downloads/releases/latest/download/LensPrint_macOS.zip) | [LensPrint_Setup.exe](https://github.com/ProtonOptics/lensprint-downloads/releases/latest/download/LensPrint_Setup.exe) |
 
 A serial key is required to use the software. Get a free trial key or buy a full license at [protonoptics.com](https://protonoptics.com/products/lensprint-optical-lens-drawings-designer).
 
@@ -25,9 +25,9 @@ Use of the software is governed by its Software License Agreement (EULA). Please
 
 ### Installation — Windows
 
-1. Download the zip file, right-click it and choose **Extract All**. Keep the extracted folder whole: the program needs the files next to the `.exe`, so don't copy the `.exe` out on its own.
-2. Open the folder and double-click `LensPrint.exe`. To make it easier to find, right-click it and choose **Pin to Start**, or create a desktop shortcut.
-3. If Windows shows **"Windows protected your PC"**, click **More info → Run anyway**.
+1. Download `LensPrint_Setup.exe` and double-click it.
+2. If Windows shows **"Windows protected your PC"**, click **More info → Run anyway**.
+3. Follow the installer. When it finishes, open LensPrint from the **Start** menu.
 4. Enter your serial key, tick the License Agreement checkbox, and click **Activate**.
 
 **Requirements:** Windows 10 or 11 (64-bit).
@@ -42,7 +42,7 @@ LensPrint includes a sample lens (Double Gauss). Open it from **Help → Open Sa
 
 | 软件 | macOS | Windows |
 |---|---|---|
-| **LensPrint 1.0** — 光学镜片加工图纸设计软件 | `LensPrint_macOS.zip` | `LensPrint_Windows.zip` |
+| **LensPrint 1.0** — 光学镜片加工图纸设计软件 | [LensPrint_macOS.zip](https://github.com/ProtonOptics/lensprint-downloads/releases/latest/download/LensPrint_macOS.zip) | [LensPrint_Setup.exe](https://github.com/ProtonOptics/lensprint-downloads/releases/latest/download/LensPrint_Setup.exe) |
 
 软件需要序列号才能使用。请在 [protonoptics.com](https://protonoptics.com/products/lensprint-optical-lens-drawings-designer) 获取免费试用序列号或购买正式版。
 
@@ -65,9 +65,9 @@ LensPrint includes a sample lens (Double Gauss). Open it from **Help → Open Sa
 
 ### 安装 — Windows
 
-1. 下载 zip 文件，右键选择 **全部解压缩**。请保留整个解压后的文件夹：程序需要 `.exe` 旁边的文件，不要把 `.exe` 单独拷出来。
-2. 打开文件夹，双击 `LensPrint.exe`。为方便以后打开，可以右键选择 **固定到"开始"屏幕**，或创建桌面快捷方式。
-3. 如果出现 **"Windows 已保护你的电脑"**，点击 **更多信息 → 仍要运行**。
+1. 下载 `LensPrint_Setup.exe`，双击运行。
+2. 如果出现 **"Windows 已保护你的电脑"**，点击 **更多信息 → 仍要运行**。
+3. 按安装向导完成安装，之后从 **开始** 菜单打开 LensPrint。
 4. 输入序列号，勾选同意许可协议，点击 **激活**。
 
 **系统要求：** Windows 10 或 11（64 位）。
